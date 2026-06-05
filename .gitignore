@@ -1,0 +1,12 @@
+# Large data files
+*.csv
+*.rds
+*.RData
+
+# R session
+.Rhistory
+.RData
+
+# OS
+.DS_Store
+Thumbs.db

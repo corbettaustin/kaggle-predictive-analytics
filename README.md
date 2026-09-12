@@ -15,9 +15,14 @@ Binary classification challenge: predict whether an e-commerce transaction resul
 | **Team** | The Fellowship of the Mean |
 | **Task** | Binary classification — `returned`: 0 or 1 |
 | **Metric** | AUC-ROC |
-| **Baseline** | ~0.67 AUC |
-| **Advanced target** | ~0.84 AUC |
+| **Public result** | Not stated; score and leaderboard claims require the private submission history |
 | **Deadline** | March 20, 2026 |
+
+## My Contribution
+
+Built and iterated the repository's modeling pipeline across preprocessing, cross-validation, leakage checks, feature engineering, XGBoost, CatBoost, and the final ensemble submission.
+
+This was a team competition. The repository's dated commit history records my implementation work; the private submission history is the required source for any future score or leaderboard claim.
 
 ---
 
